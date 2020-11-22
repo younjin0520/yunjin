@@ -1,18 +1,8 @@
 ---
 title: Quiz (2)를 대신하는 수행 과제
-categories: [dev]
+categories: [writing]
 comments: true
 ---
-
----
-title: Quiz (2)를 대신하는 수행 과제
-author: YunJin Park
-date: 2020-11-22 20:02:00 +0800
-categories: [Blogging, Tutorial]
-tags: [getting started]
-pin: true
----
-
 
 1.프로젝트 진행사항
 
